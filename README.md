@@ -1,3 +1,6 @@
+Name: Joshua Zulu
+Student Number: St10472309
+
 GitHub link: St10472309/IMADA2
 YouTube link: https://youtu.be/4M9pYMsuOuE
  
